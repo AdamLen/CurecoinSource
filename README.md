@@ -1,6 +1,6 @@
-## CureCoin Wallet 
+## CureCoin Wallet
 
-### Overview 
+### Overview
 
 If you are a newcomer, check out the [CureCoin website](https://curecoin.net/) which explains CureCoin in simple and everyday terms. You can find statistics on the current state of the CureCoin research rates on the [Team Stats Page](https://folding.extremeoverclocking.com/team_summary.php?s=&t=224497) and blockchain status and info on the [CureCoin Block Explorer](https://chainz.cryptoid.info/cure/)
 
@@ -8,7 +8,7 @@ If you are a newcomer, check out the [CureCoin website](https://curecoin.net/) w
 On Windows, the [All-In-One FoldingBrowser Installer](https://github.com/Hou5e/FoldingBrowser/releases) provides a quick setup for running Folding@home to earn both CureCoin and FoldingCoin.
 
 ### Or, setup for getting CureCoin only for running Folding@home with any username:
-1. Install the [Folding@home software](https://foldingathome.org/start-folding/), or the [F@H Chrome Browser plugin](https://chrome.google.com/webstore/detail/foldinghome/hmnbjdgjgikbkapaolimfoidihobnofo) (CPU only, better for lower power laptops)
+1. Install the [Folding@home software](https://foldingathome.org/start-folding/)
 2. Pick a Folding@home Username & get a [Passkey](https://apps.foldingathome.org/getpasskey)
 3. Enter "224497" as the Team number to fold under
 4. Register on [cryptobullionpools.com](https://www.cryptobullionpools.com/) with the **exact** same username (50 characters or less) used in Folding@home
